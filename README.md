@@ -13,7 +13,7 @@ Building reliable data pipelines, scalable lakehouse solutions, and meaningful i
 
 ## 👩‍💻 About Me
 
-I'm a **BS Data Science graduate (2026)** from the **University of Central Punjab, Lahore**, passionate about **Data Engineering and Data Analytics**. I enjoy designing end-to-end data workflows, transforming raw data into trustworthy datasets, and turning information into actionable insights through dashboards and analytics.
+I'm a **BS Data Science graduate (2026)**, passionate about **Data Engineering and Data Analytics**. I enjoy designing end-to-end data workflows, transforming raw data into trustworthy datasets, and turning information into actionable insights through dashboards and analytics.
 
 My main focus is **Data Engineering**—including ETL/ELT pipelines, cloud lakehouse architectures, distributed data processing, data modeling, and data warehousing. I work with **Apache Spark/PySpark, dbt, Snowflake, AWS, Microsoft Azure, and Azure Databricks**, and I am expanding my workflow orchestration skills with **Apache Airflow**—alongside **Data Analytics**, including SQL analysis, KPI reporting, Power BI, and Tableau. I also have a foundation in **Data Science and Machine Learning**, with experience in preprocessing, feature engineering, forecasting, and predictive modeling.
 
