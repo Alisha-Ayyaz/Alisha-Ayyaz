@@ -1,36 +1,84 @@
-[README (1).md](https://github.com/user-attachments/files/35148986/README.1.md)
-## BS Data Science Graduate | 2026
-&nbsp; I'm passionate about building a career in Data Engineering and Data Analytics, while applying my Data Science and Machine Learning skills to solve real-world problems.
+[README.md](https://github.com/user-attachments/files/35150233/README.md)
+# Hey, I'm Alisha Ayyaz 👋
 
-## Data Engineering
-&nbsp; I'm focused on Data Engineering, with hands-on project experience building cloud data pipelines, lakehouse architectures, and ETL workflows.<br>
-&nbsp; I'm looking to collaborate on data engineering projects, ETL/ELT pipelines, cloud data platforms, and analytics solutions.<br>
-&nbsp; I'm continuously improving my skills in data architecture, cloud technologies, data quality, and industry best practices.<br>
-&nbsp; I've worked with Python, SQL, PySpark, Azure Databricks, Azure Data Factory, ADLS Gen2, Delta Lake, Snowflake, dbt, AWS, Kafka, and Medallion Architecture.<br>
-&nbsp; Ask me about Data Engineering, SQL, Python, ETL pipelines, Azure Databricks, Snowflake, dbt, and Data Warehousing.
+### 📊 Data Engineering & Data Analytics | Data Science Graduate
 
-## Data Analytics
-&nbsp; I enjoy transforming raw data into actionable insights through data cleaning, exploratory analysis, KPI reporting, and interactive dashboards.<br>
-&nbsp; I've built analytics dashboards using Power BI (DAX, Power Query) and Tableau, and worked with SQL, Pandas, NumPy, Matplotlib, and Seaborn.<br>
-&nbsp; My projects include hospital performance dashboards, business intelligence reporting, automobile data analysis, and customer RFM analysis.
+[![GitHub](https://img.shields.io/badge/GitHub-Alisha--Ayyaz-181717?logo=github&logoColor=white)](https://github.com/Alisha-Ayyaz)
 
-## Data Science & AI/ML
-&nbsp; Alongside Data Engineering and Analytics, I have hands-on Data Science internship and project experience.<br>
-&nbsp; I've worked with Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Regression, Classification, Time Series Forecasting, and model evaluation using Scikit-learn.<br>
-&nbsp; I'm interested in combining reliable data pipelines, analytics, and Machine Learning to build useful, data-driven solutions.
+🔭 **Current Focus:** Building scalable cloud data pipelines, Azure Databricks lakehouse architectures, and analytics-ready datasets.  
+🌱 **Learning & Exploring:** Advanced Data Engineering, cloud platforms, data warehousing, and applied Machine Learning.  
+💬 **Ask Me About:** Python, SQL, PySpark, ETL/ELT, Medallion Architecture, Snowflake, dbt, Power BI, and Tableau.  
+📫 **How to reach me:** [alishaayyaz2@gmail.com](mailto:alishaayyaz2@gmail.com)  
+📄 **Resume:** Available on request.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-ayyaz-007108326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alishaayyaz2@gmail.com)
+## 🛠️ Technical Toolkit
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=deltalake&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Data Engineering & Cloud
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alisha-Ayyaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alisha-Ayyaz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-Ayyaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Also worked with:** SQL, Azure Data Factory, Azure Data Lake Storage Gen2, Delta Lake, Unity Catalog, Databricks Jobs/Workflows, ETL pipelines, Medallion Architecture, dimensional modeling, and data quality testing.
+
+### Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Also worked with:** DAX, Power Query, Tableau LOD expressions, SQL joins, exploratory data analysis, KPI reporting, and dashboard development.
+
+### Data Science & Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Also worked with:** Data preprocessing, feature engineering, regression, classification, clustering, time-series forecasting, and model evaluation.
+
+### Development & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Also worked with:** REST APIs, asynchronous Python, web scraping, Vite, Tailwind CSS, and React Flow.
+
+## 🚀 Featured Projects
+
+### ☁️ End-to-End Azure Databricks Data Pipeline
+**Technologies:** Azure Data Factory, ADLS Gen2, Azure Databricks, PySpark, Delta Lake, Snowflake, dbt, Unity Catalog.  
+**Outcome:** Designed a Bronze → Silver → Gold lakehouse pipeline; transformed raw data with PySpark, implemented dimensional modeling and slowly changing dimensions, loaded curated data into Snowflake, and built tested, documented dbt models for analytics.
+
+### 🕸️ Open Source Data Gathering (OSDG) — Final Year Project
+**Technologies:** Python, REST APIs, Web Scraping, React, React Flow, Vite, Tailwind CSS.  
+**Outcome:** Built an application that gathers data from multiple APIs, cleans and deduplicates it, and displays connections in an interactive graph. Used asynchronous Python tasks and logging for efficient data collection.
+
+### 🏥 Hospital Management System Dashboard
+**Technologies:** Power BI, DAX, Power Query, ETL.  
+**Outcome:** Built a dashboard tracking bed occupancy, patient flow, and revenue trends, with interactive filters and drill-through analysis.
+
+### 📈 Business Intelligence Insights Dashboard
+**Technologies:** Tableau, SQL, Data Blending, LOD Expressions.  
+**Outcome:** Combined multiple data sources and created executive-focused dashboards with calculated fields, parameters, and detailed business analysis.
+
+### 🚗 Automobile Industry Data Analysis
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.  
+**Outcome:** Cleaned and explored automobile data, engineered features, and evaluated a Decision Tree model using train-test splits, cross-validation, and classification metrics.
+
+### 🌐 Streamlit Portfolio Showcase
+**Technologies:** Python, Streamlit, GitHub, Streamlit Cloud.  
+**Outcome:** Built and deployed an interactive web application for browser-based data visualization.
+
+## 🏆 Experience & Education
+
+🎓 **Academic:** BS Data Science, University of Central Punjab, Lahore (2022–2026).  
+💼 **Internships:** Data Science Intern — Prodigy InfoTech & Elevvo Pathways; worked on RFM analysis, regression, time-series forecasting, preprocessing, and EDA.  
+📜 **Certifications:** Data Science Professional Certificate (Coursera); Career Excellence (MARESPECT); Collaborate Effectively for Professional Success (Coursera).  
+🎯 **Interests:** Data Engineering, Data Analytics, Cloud Data Platforms, Data Science, and Machine Learning.
+
+## 📈 GitHub Stats
+
+![Alisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisha-Ayyaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Alisha-Ayyaz&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-Ayyaz&theme=dark&hide_border=false&layout=compact)
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-ayyaz-007108326/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alisha-Ayyaz) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishaayyaz2@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alisha-Ayyaz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Profile Views](https://visitcount.itsvg.in/api?id=Alisha-Ayyaz&icon=0&color=0)](https://visitcount.itsvg.in)
