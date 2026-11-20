@@ -37,7 +37,7 @@
 
 **Also worked with:** REST APIs, asynchronous Python, web scraping, Vite, Tailwind CSS, and React Flow.
 
-## 🚀 Featured Projects
+## 🚀 Projects Completed
 
 ### ☁️ End-to-End Azure Databricks Data Pipeline
 **Technologies:** Azure Data Factory, ADLS Gen2, Azure Databricks, PySpark, Delta Lake, Snowflake, dbt, Unity Catalog.  
